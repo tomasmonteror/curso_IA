@@ -1,2 +1,2 @@
 # curso_IA
-Prueba del curso
+Prueba del curso jugando con la rama_ejemplo
